@@ -39,12 +39,9 @@ Well you may think why people love Anime and there’s an ENDLESS number of reas
 
   * **The genius storytelling is out of this world**
     <p align="center">
-       <img src="aaa.png" alt="A" >
+       <img src="\source\story.gif" alt="A" >
      </a></p>
-     <p align="center">
-        <img src="aaa.png" alt="A" >
-      </a></p> 
-Each episode is refreshing, and focuses purely on telling interesting stories.
+Each episodes in anime are refreshing, and focuses purely on telling interesting stories.
 There are lot's of anime that do this. Like:
   - Psycho Pass
   - Fairy Tail
@@ -58,13 +55,13 @@ And so on…
         <img src="\source\3.jpg" alt="A" >
       </a></p>
       <p align="center">
-        <img src="aaa.png" alt="A" >
+        <img src="\source\4.jpg" alt="A" >
       </a></p>
       <p align="center">
-        <img src="aaa.png" alt="A" >
+        <img src="\source\1.jpg" alt="A" >
       </a></p>
       <p align="center">
-        <img src="aaa.png" alt="A" >
+        <img src="\source\2.jpg" alt="A" >
       </a></p>
       
 
