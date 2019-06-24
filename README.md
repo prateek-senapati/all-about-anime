@@ -22,27 +22,27 @@
   </a>
 </p>
 
-**Hi! I am 18 year old otaku and this repository is all about Anime. In this repository you can find all resources for anime.**
+**Hi! I am 18 years old otaku and this repository is all about anime. In this repository you can find all resources for anime.**
 
 ## Content List
 Table of content
-  * [My thoughts about Anime](#so-what-is-anime)
+  * [My Thoughts about Anime](#so-what-is-anime)
   * What is Anime
   * Why Anime
   * My Anime List
   * B
-    
+
 
 
 ## Why Anime
-Well you may think why people love Anime and there’s an ENDLESS number of reasons. Let’s list a few…
+Well you may think why people love anime and there’s an ENDLESS number of reasons. Let’s list a few…
 
   * **The genius storytelling is out of this world**
     <p align="center">
        <img src="\source\story.gif" alt="A" >
      </a></p>
-Each episodes in anime are refreshing, and focuses purely on telling interesting stories.
-There are lot's of anime that do this. Like:
+Each episode in anime is refreshing, and focuses purely on telling interesting stories.
+There are lots of anime that do this. Like:
   - Psycho Pass
   - Fairy Tail
   - Hyouka
@@ -63,19 +63,19 @@ And so on…
       <p align="center">
         <img src="\source\2.jpg" alt="A" >
       </a></p>
-      
+
 
   * **Irresistible Soundtracks (The Background Music)**
-  
-  
+
+
   * **Relatable characters**
   * **Fan service**
-  
-  
-  
 
 
-## My relation with Anime
+
+
+
+## My Relation with Anime
 
 
 <br><br><br><br>
@@ -83,33 +83,32 @@ And so on…
 
 
 ## So what is Anime
-According to wiki Anime is hand-drawn and computer animation originating from or associated with Japan.
+According to wiki, anime is hand-drawn and computer animation originating from or associated with Japan.
 
 But what actually is Anime. <br>
 
   * **Anime is happiness**
   * **But sometimes it’s full of sadness**
   ![](hs.png)
-  
+
   * **Other times it’s full of smug/sarcastic characters:** <br>
   <p align="center">
     <img src="aaa.png" alt="A" >
   </a></p>
-  
+
   * **And sometimes “anime” is packed with action and violence**
-  
+
   ![](ap.png)
   * **And yet anime can be sweet, innocent and romantic:**
   * **And “fan-service” for both guys and girls…**
 
 Anime is MANY things, with MANY animation styles, genres and tastes for any viewer. Regardless of what it is you’re into.
 
-For me Anime is religion , feeling and my **Life**.
-Anime taught me fiendhshi , anime is everything.
+For me anime is religion, feeling and my **Life**.
+Anime taught me friendship, anime is everything.
 
 **If you can imagine it, there’s probably an anime for it.** Anime is a diverse piece of entertainment, made predominantly by the Japanese.
 
 **And there’s nothing like it.**
 
 <br>
-
